@@ -1,7 +1,7 @@
-#guacamole
-##Ingredients
+# guacamole
+## Ingredients
 * avocado
 * lime
 * salt
-##Instructions
+## Instructions
 
